@@ -8,7 +8,7 @@
   "magisk": {
     "version": "1469b82a",
     "versionCode": "21101",
-    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/app-debug.apk",
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/magisk-debug.zip",
     "note": "notes.md",
     "md5": "ebe5ec3f4e4e1226e387ebe7c7d06e0c"
   },
